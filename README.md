@@ -20,6 +20,9 @@
 ### Data Professional Survery Breakdown 
 <a href="https://github.com/analysteva/Project1-.git">Project 1</a>
 
+<a href="https://analysteva.github.io/Project1-/">Project 2</a> 
+
+
 <img src="https://github.com/analysteva/portfolio/blob/a54894df9b47e6184023ae10f4c2bb9b783c675c/assets/img/1.png" alt="Flowers in Chania" width="700" height="500">
 
 <img src="https://github.com/analysteva/portfolio/blob/57d9d0f1dc48f9ee312c1a0b5fe4121e3de629dd/assets/img/2.jpg" alt="Flowers in Chania" width="500" height="400">
