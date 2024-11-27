@@ -22,6 +22,10 @@
 
 <img src="https://github.com/analysteva/portfolio/blob/a54894df9b47e6184023ae10f4c2bb9b783c675c/assets/img/1.png" alt="Flowers in Chania" width="700" height="500">
 
+<img src="https://github.com/analysteva/portfolio/blob/a54894df9b47e6184023ae10f4c2bb9b783c675c/assets/img/1.jpg" alt="Flowers in Chania" width="500" height="400">
+
+
+
 Technologies: Excel, Bower BI
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
