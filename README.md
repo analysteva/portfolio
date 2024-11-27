@@ -18,10 +18,7 @@
 
 ## Projects
 ### Data Professional Survery Breakdown 
-https://github.com/analysteva/Project1-.git
 <a href="https://github.com/analysteva/Project1-.git">Project 1</a>
-<a href="https://github.com/analysteva/portfolio/tree/b96d018a1ebddbe641e5b0cc69cf2376bb6923ac/Project)">Project 1</a>
-
 
 Technologies: Excel, Bower BI
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
