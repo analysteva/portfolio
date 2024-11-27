@@ -7,6 +7,8 @@
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
+  <img src="assets/img/1.jpg" alt="Example Image">
+
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
