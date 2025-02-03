@@ -9,7 +9,8 @@ For the past 10 years, I have been professionally solving technical issues relat
 
 ## Portfolio Projects
 - Analysis of the availability and costs of nurseries for children in Poland <BR>
-    <a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project </a> 
+    <a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project </a>
+    <img src="assets/img/KN_screen1.JPG" alt="Example Image">
     
 - Analysis of High School Exam Pass Rates in Poland - Matura <BR>
   <a href="https://analysteva.github.io/Project1-/"> Matura Exam Pass Rates in Poland Project </a>
