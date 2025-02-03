@@ -1,6 +1,7 @@
 # About
 
 <P>Hi, my name is Ewa. I am an experienced application support analyst, a fan of new technologies, a plant enthusiast, and an aspiring data analyst.<BR>
+  
 For the past 10 years, I have been professionally solving technical issues related to systems and applications in large financial sector companies. In my daily work, I use SQL and work with databases to deliver solutions for end users. I also have experience in database querying, troubleshooting, and debugging to ensure the smooth operation of business-critical applications. 
 </P>
 
