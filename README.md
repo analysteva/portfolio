@@ -8,15 +8,15 @@ For the past 10 years, I have been professionally solving technical issues relat
   Currently transitioning into Data Analytics, combining strong <B>SQL</B> expertise, analytical problem-solving skills, and a deep understanding of data collection, organization, and analysis to extract meaningful insights. Proficient in <B>Excel</B>, <B>Power BI</B>, <B>DAX</B>, and <B>graphic applications</B>, with expertise in dashboard creation, report automation, data mining, data integration, and critical thinking to drive data-driven decision-making. 
 
 ## Portfolio Projects
-- Analysis of the availability and costs of nurseries for children in Poland <BR>
-    <a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project </a>
+- ### Analysis of the availability and costs of nurseries for children in Poland <BR>
+    *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project </a>*
     <img src="assets/img/KN_screen1.JPG" alt="Example Image">
     
-- Analysis of High School Exam Pass Rates in Poland - Matura <BR>
-  <a href="https://analysteva.github.io/Project1-/"> Matura Exam Pass Rates in Poland Project </a>
+- ### Analysis of High School Exam Pass Rates in Poland - Matura <BR>
+  *<a href="https://analysteva.github.io/Project1-/"> Matura Exam Pass Rates in Poland Project </a>*
   
-- Analysis of the Coffee Been Sales <BR>
-  <a href="https://analysteva.github.io/Project1-/"> Cofee Bean Sales Project </a> 
+- ### Analysis of the Coffee Been Sales <BR>
+  *<a href="https://analysteva.github.io/Project1-/"> Cofee Bean Sales Project </a>* 
 
   <img src="assets/img/1.jpg" alt="Example Image">
 
