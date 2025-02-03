@@ -1,10 +1,11 @@
 # About
 
 #### Welcome to my Data Analyst Portfolio 
-  Hi, my name is Ewa. I am an experienced application support analyst, a fan of new technologies, a plant enthusiast, and an aspiring data analyst. 
+<P>Hi, my name is Ewa. I am an experienced application support analyst, a fan of new technologies, a plant enthusiast, and an aspiring data analyst.<BR>
 For the past 10 years, I have been professionally solving technical issues related to systems and applications in large financial sector companies. In my daily work, I use SQL and work with databases to deliver solutions for end users. I also have experience in database querying, troubleshooting, and debugging to ensure the smooth operation of business-critical applications. 
+</P>
 
-  Currently transitioning into Data Analytics, combining strong SQL expertise, analytical problem-solving skills, and a deep understanding of data collection, organization, and analysis to extract meaningful insights. Proficient in <B>Excel</B>, <B>Power BI</B>, <B>DAX</B>, and graphic applications, with expertise in dashboard creation, report automation, data mining, data integration, and critical thinking to drive data-driven decision-making. 
+  Currently transitioning into Data Analytics, combining strong <B>SQL</B> expertise, analytical problem-solving skills, and a deep understanding of data collection, organization, and analysis to extract meaningful insights. Proficient in <B>Excel</B>, <B>Power BI</B>, <B>DAX</B>, and <B>graphic applications</B>, with expertise in dashboard creation, report automation, data mining, data integration, and critical thinking to drive data-driven decision-making. 
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
