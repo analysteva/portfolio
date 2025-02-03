@@ -7,9 +7,9 @@ For the past 10 years, I have been professionally solving technical issues relat
   Currently transitioning into Data Analytics, combining strong <B>SQL</B> expertise, analytical problem-solving skills, and a deep understanding of data collection, organization, and analysis to extract meaningful insights. Proficient in <B>Excel</B>, <B>Power BI</B>, <B>DAX</B>, and <B>graphic applications</B>, with expertise in dashboard creation, report automation, data mining, data integration, and critical thinking to drive data-driven decision-making. 
 
 ## Portfolio Projects
-- Analysis of the availability and costs of nurseries for children in Poland					       		
-- Analysis of High School Exam Pass Rates in Poland - Matura  		
-- Analysis of Coffee Been Sales 
+### - Analysis of the availability and costs of nurseries for children in Poland					       		
+### - Analysis of High School Exam Pass Rates in Poland - Matura  		
+### - Analysis of Coffee Been Sales 
 
   <img src="assets/img/1.jpg" alt="Example Image">
 
