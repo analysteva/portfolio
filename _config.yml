@@ -4,17 +4,7 @@ logo: /assets/img/f_prt_1.png
 #description: my curriculum vitae
 --show_downloads: true
 theme: jekyll-theme-minimal
-repository_url: ""
-is_project_page: false
-header:
-  nav:
-    - title: "Home"
-      url: /
-    - title: "About"
-      url: /about/
-    # Remove GitHub link from navigation
-    - title: "GitHub"
-      url: /github/
-      visible: false
+minimal:
+  show_repo_link: false
 
 
