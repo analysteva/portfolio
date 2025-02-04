@@ -6,5 +6,9 @@ logo: /assets/img/f_prt_1.png
 theme: jekyll-theme-minimal
 minimal:
   show_repo_link: false
+markdown: kramdown
+plugins:
+  - jekyll-feed
+include: ["assets/css"]
 
 
