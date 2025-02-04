@@ -4,5 +4,6 @@ logo: /assets/img/f_prt_1.png
 #description: my curriculum vitae
 --show_downloads: true
 theme: jekyll-theme-minimal
+repository_url: ""
 is_project_page: false
---repository_url: https://github.com/your-username/your-repo
+
