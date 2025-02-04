@@ -2,7 +2,7 @@ title: Ewa portfolio
 --logo: /assets/img/headshot_circle.png
 logo: /assets/img/f_prt_1.png
 #description: my curriculum vitae
---show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 minimal:
   show_repo_link: false
