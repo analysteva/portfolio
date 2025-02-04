@@ -1,12 +1,12 @@
 # About
 
-Hi, my name is Ewa. I am an experienced application support analyst, a fan of new technologies, a plant enthusiast, and an aspiring data analyst.
+Hi, my name is Ewa. I am an experienced Application Support Analyst, a fan of new technologies, a plant enthusiast, and an aspiring data analyst.
   
 For the past 10 years, I have been professionally solving technical issues related to systems and applications in large financial sector companies. <BR>
 In my daily work, I use SQL and work with databases to deliver solutions for end users. I also have experience in database querying, troubleshooting, and debugging to ensure the smooth operation of business-critical applications. 
 </P>
 
-  Currently transitioning into Data Analytics, combining strong <B>SQL</B> expertise, analytical problem-solving skills, and a deep understanding of data collection, organization, and analysis to extract meaningful insights. Proficient in <B>Excel</B>, <B>Power BI</B>, <B>DAX</B>, and <B>graphic applications</B>, with expertise in dashboard creation, report automation, data mining, data integration, and critical thinking to drive data-driven decision-making. 
+  Currently transitioning into Data Analytics, combining strong <B>SQL</B> expertise, analytical problem-solving skills, and a deep understanding of data collection, organization, and analysis to extract meaningful insights. Proficient in <B>Excel</B>, <B>Power BI</B>, <B>DAX</B>, and <B>graphic applications</B>, with expertise in report and dashboard creation, automation, data mining, data integration, and critical thinking to drive data-driven decision-making. 
 <BR>
 <BR>
 # Portfolio Projects
