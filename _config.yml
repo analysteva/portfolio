@@ -6,10 +6,11 @@ show_downloads: false
 theme: jekyll-theme-minimal
 minimal:
   show_repo_link: false
-markdown: kramdown
+  show_downloads: false
 plugins:
   - jekyll-feed
 include: ["assets/css"]
 classes: wide
+
 
 
