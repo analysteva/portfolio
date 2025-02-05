@@ -1,10 +1,7 @@
----
----
-
-@import "{{ site.theme }}";
-
 a[href*="https://github.com/analysteva/portfolio"] {
     display: none !important;
+@import "{{ site.theme }}";
+
 }
 body {
   background-color: #fff;
