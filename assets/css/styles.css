@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 a[href*="https://github.com/analysteva/portfolio"] {
     display: none !important;
 }
