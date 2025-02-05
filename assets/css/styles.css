@@ -1,3 +1,6 @@
+a[href*="github.com"] {
+    display: none !important;
+}
 body {
   background-color: #fff;
   padding:50px;
