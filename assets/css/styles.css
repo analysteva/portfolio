@@ -1,4 +1,4 @@
-a[href*="github.com"] {
+a[href*="https://github.com/analysteva/portfolio"] {
     display: none !important;
 }
 body {
