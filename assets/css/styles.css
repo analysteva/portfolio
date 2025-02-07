@@ -2,6 +2,34 @@ a[href*="https://github.com/analysteva/portfolio"] {
     display: none !important;
 @import "{{ site.theme }}";
 
+/* Ensure content fits on small screens beginning*/
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Improve padding and margins */
+.page-content {
+  padding: 10px;
+}
+
+/* Make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Adjust navigation for small screens */
+.site-nav {
+  text-align: center;
+}
+
+.site-nav a {
+  display: block;
+  padding: 10px;
+}
+/* Ensure content fits on small screens beginning*/
+    
 }
 body {
   background-color: #fff;
