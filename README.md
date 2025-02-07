@@ -9,15 +9,15 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
 <BR>
 <BR>
 # /Portfolio Projects/
- ## Analysis of the availability and costs of nurseries for children in Poland <BR>
+ ## Analysis of the availability and costs of nurseries for children in Poland
   *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>*
-  <img src="assets/img/KN_screen1.JPG" alt="Example Image">
+  <p> <img src="assets/img/KN_screen1.JPG" alt="Example Image"></p>
    
- ## Analysis of High School Exam Pass Rates in Poland - Matura <BR>
+ ## Analysis of High School Exam Pass Rates in Poland - Matura
   *<a href="https://analysteva.github.io/Project1-/"> Matura Exam Pass Rates in Poland Project </a>*
   <img src="assets/img/M_1.JPG" alt="Example Image">
   
- ## Analysis of the Coffee Been Sales <BR>
+ ## Analysis of the Coffee Been Sales
   *<a href="https://analysteva.github.io/Project1-/"> Cofee Bean Sales Project </a>*
   <img src="assets/img/CB_1.JPG" alt="Example Image">
 
