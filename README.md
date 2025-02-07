@@ -1,6 +1,6 @@
 # /About/
 
-Hi, my name is Ewa. I am an experienced Application Support Analyst, a fan of new technologies, a plant enthusiast, and an aspiring data analyst.
+## Hi, my name is Ewa. I am an experienced Application Support Analyst, a fan of new technologies, a plant enthusiast, and an aspiring data analyst.
   
 For the past 10 years, I have been professionally solving technical issues related to systems and applications in large financial sector companies. <BR>
 In my daily work, I use SQL and work with databases to deliver solutions for end users. I also have experience in database querying, troubleshooting, and debugging to ensure the smooth operation of business-critical applications. 
@@ -9,6 +9,7 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
 <BR>
 <BR>
 # Portfolio Projects
+
  ## Analysis of the availability and costs of nurseries for children in Poland
  
   *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>*<BR>
