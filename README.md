@@ -8,7 +8,7 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
   Currently transitioning into Data Analytics, combining strong <B>SQL</B> expertise, analytical problem-solving skills, and a deep understanding of data collection, organization, and analysis to extract meaningful insights. Proficient in <B>Excel</B>, <B>Power BI</B>, <B>DAX</B>, and <B>graphic applications</B>, with expertise in report and dashboard creation, automation, data mining, data integration, and critical thinking to drive data-driven decision-making. 
 <BR>
 <BR>
-# /Portfolio Projects/
+# Portfolio Projects
  ## Analysis of the availability and costs of nurseries for children in Poland
  
   *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>*<BR>
