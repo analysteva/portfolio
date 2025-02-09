@@ -14,6 +14,12 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
   *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>*<BR>
   
   <img src="assets/img/KN_screen1.JPG" alt="Example Image">
+
+## Analysis of the Coffee Been Sales
+ 
+  *<a href="https://analysteva.github.io/Project1-/"> Cofee Bean Sales Project </a>*<BR>
+  
+  <img src="assets/img/CB_1.JPG" alt="Example Image">
    
 ## Analysis of High School Exam Pass Rates in Poland - Matura
  
@@ -21,11 +27,7 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
   
   <img src="assets/img/M_1.JPG" alt="Example Image">
   
-## Analysis of the Coffee Been Sales
- 
-  *<a href="https://analysteva.github.io/Project1-/"> Cofee Bean Sales Project </a>*<BR>
-  
-  <img src="assets/img/CB_1.JPG" alt="Example Image">
+
 
 <!--
 ## Projects
