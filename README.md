@@ -25,7 +25,7 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
  
   *<a href="https://analysteva.github.io/Project2/"> Matura Exam Pass Rates in Poland Project </a>*<BR>
   
-  <img src="assets/img/PL_M1.JPG" alt="Example Image">
+  <img src="assets/img/PL_M2.JPG" alt="Example Image">
   
 
 
