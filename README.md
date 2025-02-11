@@ -23,9 +23,9 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
    
 ## Analysis of High School Exam Pass Rates in Poland - Matura
  
-  *<a href="https://analysteva.github.io/Project1-/"> Matura Exam Pass Rates in Poland Project </a>*<BR>
+  *<a href="https://analysteva.github.io/Project2/"> Matura Exam Pass Rates in Poland Project </a>*<BR>
   
-  <img src="assets/img/M_1.JPG" alt="Example Image">
+  <img src="assets/img/PL_M1.JPG" alt="Example Image">
   
 
 
