@@ -11,7 +11,7 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
 # /Portfolio Projects/
 ## Analysis of the availability and costs of nurseries for children in Poland
  
-  *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>*<BR>
+  *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>* <BR>
   
   <img src="assets/img/KN_screen1.JPG" alt="Example Image">
 
