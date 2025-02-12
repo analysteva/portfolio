@@ -17,7 +17,7 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
 
 ## Analysis of the Coffee Been Sales
  
-  *<a href="https://analysteva.github.io/Project1-/"> Cofee Bean Sales Project </a>*<BR>
+  *<a href="https://analysteva.github.io/Project3"> Cofee Bean Sales Project </a>*<BR>
   
   <img src="assets/img/CB_1.JPG" alt="Example Image">
    
