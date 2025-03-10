@@ -20,12 +20,12 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
  
   *<a href="https://analysteva.github.io/Project3"> Cofee Bean Sales Project </a>*<BR>
   
-  <img src="assets/img/CB_1.JPG" alt="Example Image">
+  <a href="https://app.powerbi.com/reportEmbed?reportId=25340aaa-67c0-475a-abaa-68c082a03b22&autoAuth=true&ctid=414b5921-fe6b-4ff6-9ab9-798be0736325" target="_blank">
+    <img src="assets/img/CB_1.JPG" alt="Example Image" style="cursor: pointer;">
+  </a>
 
  🔗 [View Interactive Power BI Report](https://analysteva.github.io/powerbi-report/)
-
-
-   
+ 
 ## Analysis of High School Exam Pass Rates in Poland - Matura
  
   *<a href="https://analysteva.github.io/Project2/"> Matura Exam Pass Rates in Poland Project </a>*<BR>
