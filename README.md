@@ -21,6 +21,10 @@ In my daily work, I use SQL and work with databases to deliver solutions for end
   *<a href="https://analysteva.github.io/Project3"> Cofee Bean Sales Project </a>*<BR>
   
   <img src="assets/img/CB_1.JPG" alt="Example Image">
+
+ 🔗 [View Interactive Power BI Report](https://analysteva.github.io/powerbi-report/)
+
+
    
 ## Analysis of High School Exam Pass Rates in Poland - Matura
  
