@@ -9,6 +9,7 @@ theme: jekyll-theme-minimal
 minimal:
   show_repo_link: true
   show_downloads: false
+  show_project_tagline: true
   search: false
   skin: auto
 plugins:
