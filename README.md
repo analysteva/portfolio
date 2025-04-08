@@ -1,14 +1,13 @@
 # /About/
 
-Hi, my name is Ewa. I am an experienced Application Support Analyst, a fan of new technologies, a plant enthusiast, and exploring advanced data analytics.
-  
-For the past 10 years, I have been professionally solving technical issues related to systems and applications in large financial sector companies. <BR>
-In my daily work, I use SQL and work with databases to deliver solutions for end users. I also have experience in database querying, troubleshooting, and debugging to ensure the smooth operation of business-critical applications. 
+Hi, my name is Ewa. I am a certified Microsoft Power BI Data Analyst with a strong focus on data visualization, reporting, and insight generation. My professional background includes over 10 years of experience in the financial sector, where I developed a deep understanding of complex systems, business processes, and data-driven decision making while working as an Application Support Analyst. 
 
-  Currently transitioning into Data Analytics, leveraging strong communication and analytical problem-solving skills along with a deep understanding of data collection, organization, and analysis to extract meaningful insights. 
-  I'm proficient in <B>Power BI</B>, <B>DAX</B>, and <B>graphic applications</B>, with experience in dashboard creation, report automation, data mining, and data integration.
+My core expertise lies in transforming raw data into actionable insights through <B>Power BI</B>, <B>DAX</B>, <B>SQL</B> and <B>graphic applications</B>. I have successfully designed and implemented interactive dashboards and automated reporting solutions that support strategic and operational goals. My work combines technical precision with analytical thinking to identify trends, optimize performance, and guide business strategy. 
+
+With a data-first mindset, I bring strong skills in data modeling, data mining, and visual storytelling - enabling stakeholders to make informed decisions based on clear, accurate, and impactful data insights. 
+
 <BR>
-<BR>
+
 # /Portfolio Projects/
 ## Analysis of the availability and costs of nurseries for children in Poland
  
