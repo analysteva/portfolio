@@ -1,7 +1,6 @@
 title: Ewa Siekierzyńska
 logo: /assets/img/f_prt_2.png
 description:
-    <br><br>
     Email: ewa.siekierzynska@gmail.com
     <br><br>
     <a href="https://www.linkedin.com/in/ewa-siekierzyńska">LinkedIn Profile</a>
@@ -11,6 +10,7 @@ minimal:
   show_repo_link: true
   show_downloads: false
   show_project_tagline: true
+  show_project_email: true
   search: false
   skin: auto
 plugins:
