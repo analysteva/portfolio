@@ -8,7 +8,7 @@ description:
 show_downloads: false
 theme: jekyll-theme-minimal
 minimal:
-  show_repo_link: false
+  show_repo_link: true
   show_downloads: false
   search: false
   skin: auto
