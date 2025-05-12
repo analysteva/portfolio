@@ -11,9 +11,9 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
 # /Portfolio Projects/
 ## Finance Analysis for Paper & Ink Co.
  
-  *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>* <BR>
+  *<a href="https://analysteva.github.io/Project4/"> Finance Dashboard </a>* <BR>
   
-  <img src="assets/img/KN_screen1.JPG" alt="Example Image">
+  <img src="assets/img/FD_1.JPG" alt="Example Image">
   
 ## Analysis of the availability and costs of nurseries for children in Poland
  
