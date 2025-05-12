@@ -9,6 +9,12 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
 <BR>
 
 # /Portfolio Projects/
+## Finance Analysis for Paper & Ink Co.
+ 
+  *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>* <BR>
+  
+  <img src="assets/img/KN_screen1.JPG" alt="Example Image">
+  
 ## Analysis of the availability and costs of nurseries for children in Poland
  
   *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project</a>* <BR>
@@ -30,7 +36,6 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
   *<a href="https://analysteva.github.io/Project2/"> Matura Exam Pass Rates in Poland Project </a>*<BR>
   
   <img src="assets/img/PL_M2.JPG" alt="Example Image">
-  
 
 
 <!--
