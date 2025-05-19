@@ -14,6 +14,8 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
   *<a href="https://analysteva.github.io/Project4/"> Finance Dashboard </a>* <BR>
   
   <img src="assets/img/FD_1.JPG" alt="Example Image">
+
+👉 [Click here to view the interactive report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNDhiYTBmZDgtM2M2ZC00YTMwLWJhNDQtZTBkZDVmMjI5Yzk1IiwidCI6ImVlNDIyMDkzLTBjMGUtNDk4OS05MDkwLWJiNWRjNzMyNzQxYSJ9&pageName=c57da1bc1154c744b370)
   
 ## Analysis of the availability and costs of nurseries for children in Poland
  
