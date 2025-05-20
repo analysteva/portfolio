@@ -10,12 +10,13 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
 
 # /Portfolio Projects/
 ## Finance Analysis for Paper & Ink Co.
- 
-  *<a href="https://analysteva.github.io/Project4/"> Finance Dashboard </a>* <BR>
+
+ *<a href="https://analysteva.github.io/Project4/"> Finance Dashboard </a>* <BR>
+  
+  👉 [Click here to view the interactive report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNDhiYTBmZDgtM2M2ZC00YTMwLWJhNDQtZTBkZDVmMjI5Yzk1IiwidCI6ImVlNDIyMDkzLTBjMGUtNDk4OS05MDkwLWJiNWRjNzMyNzQxYSJ9&pageName=c57da1bc1154c744b370)
   
   <img src="assets/img/FD_1.JPG" alt="Example Image">
 
-👉 [Click here to view the interactive report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNDhiYTBmZDgtM2M2ZC00YTMwLWJhNDQtZTBkZDVmMjI5Yzk1IiwidCI6ImVlNDIyMDkzLTBjMGUtNDk4OS05MDkwLWJiNWRjNzMyNzQxYSJ9&pageName=c57da1bc1154c744b370)
   
 ## Analysis of the availability and costs of nurseries for children in Poland
  
@@ -25,8 +26,10 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
 
 ## Analysis of the Coffee Been Sales
  
-  *<a href="https://analysteva.github.io/Project3"> Cofee Bean Sales Project </a>*<BR>
-  
+🔗<a href="https://analysteva.github.io/Project3"> Cofee Bean Sales Project </a><BR>
+
+   👉 [Click here to view the interactive report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzk4NjIzZWItM2MxNi00YTk5LThhYjUtMTUxMDZjMzM3N2FkIiwidCI6ImVlNDIyMDkzLTBjMGUtNDk4OS05MDkwLWJiNWRjNzMyNzQxYSJ9&pageName=11b78b4b69e8e30b6a84)
+   
   <a href="https://app.powerbi.com/reportEmbed?reportId=25340aaa-67c0-475a-abaa-68c082a03b22&autoAuth=true&ctid=414b5921-fe6b-4ff6-9ab9-798be0736325" target="_blank">
     <img src="assets/img/CB_1.JPG" alt="Example Image" style="cursor: pointer;">
   </a>
