@@ -13,7 +13,7 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
 
  *🔗<a href="https://analysteva.github.io/Project4/"> Finance Dashboard </a>* <BR>
   
-  👉 [Click here to view the interactive report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmRkMDJjM2MtZjJmYi00MTkwLWE4ZjUtMzYwM2JmMmE5ODQ4IiwidCI6ImVlNDIyMDkzLTBjMGUtNDk4OS05MDkwLWJiNWRjNzMyNzQxYSJ9)
+  👉 [Click here to view the interactive report](https://app.powerbi.com/view?r=eyJrIjoiNmRkMDJjM2MtZjJmYi00MTkwLWE4ZjUtMzYwM2JmMmE5ODQ4IiwidCI6ImVlNDIyMDkzLTBjMGUtNDk4OS05MDkwLWJiNWRjNzMyNzQxYSJ9&pageName=c57da1bc1154c744b370)
   
   <img src="assets/img/FD_1.JPG" alt="Example Image">
 
