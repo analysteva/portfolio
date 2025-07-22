@@ -33,7 +33,7 @@ With a data-first mindset, I bring strong skills in data modeling, data mining, 
    👉 [Click here to view the interactive report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzk4NjIzZWItM2MxNi00YTk5LThhYjUtMTUxMDZjMzM3N2FkIiwidCI6ImVlNDIyMDkzLTBjMGUtNDk4OS05MDkwLWJiNWRjNzMyNzQxYSJ9&pageName=11b78b4b69e8e30b6a84)
    
   <a href="https://app.powerbi.com/reportEmbed?reportId=25340aaa-67c0-475a-abaa-68c082a03b22&autoAuth=true&ctid=414b5921-fe6b-4ff6-9ab9-798be0736325" target="_blank">
-    <img src="assets/img/CB_1.JPG" alt="Example Image" style="cursor: pointer;">
+    <img src="assets/img/CB_4.JPG" alt="Example Image" style="cursor: pointer;">
   </a> 
   
 ## Analysis of High School Exam Pass Rates in Poland - Matura
